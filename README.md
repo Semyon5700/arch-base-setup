@@ -18,7 +18,7 @@ A bash script designed for streamlined package installation on Arch Linux. The u
 ## Installation
 
 ```bash
-git clone https://github.com/semyon5700/arch-base-setup.git
+git clone https://github.com/Semyon5700/arch-base-setup
 cd arch-base-setup
 chmod +x install.sh
 ./install.sh
